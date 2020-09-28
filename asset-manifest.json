@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/revvos/static/css/main.8579d73a.chunk.css",
+    "main.js": "/revvos/static/js/main.1bc60a1f.chunk.js",
+    "main.js.map": "/revvos/static/js/main.1bc60a1f.chunk.js.map",
+    "runtime-main.js": "/revvos/static/js/runtime-main.34a1a21a.js",
+    "runtime-main.js.map": "/revvos/static/js/runtime-main.34a1a21a.js.map",
+    "static/js/2.3fc3e831.chunk.js": "/revvos/static/js/2.3fc3e831.chunk.js",
+    "static/js/2.3fc3e831.chunk.js.map": "/revvos/static/js/2.3fc3e831.chunk.js.map",
+    "index.html": "/revvos/index.html",
+    "precache-manifest.957fe28012c66dda708426f1db7ac59e.js": "/revvos/precache-manifest.957fe28012c66dda708426f1db7ac59e.js",
+    "service-worker.js": "/revvos/service-worker.js",
+    "static/css/main.8579d73a.chunk.css.map": "/revvos/static/css/main.8579d73a.chunk.css.map",
+    "static/js/2.3fc3e831.chunk.js.LICENSE.txt": "/revvos/static/js/2.3fc3e831.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a1a21a.js",
+    "static/js/2.3fc3e831.chunk.js",
+    "static/css/main.8579d73a.chunk.css",
+    "static/js/main.1bc60a1f.chunk.js"
+  ]
+}
