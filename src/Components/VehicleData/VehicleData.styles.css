@@ -1,0 +1,43 @@
+.vehicleData-mainDiv {
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.close {
+    position: absolute;
+    top:10px;
+    right: 100px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 700;
+}
+
+.TripGroup {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 30px;
+}
+
+.singleTrip {
+    /* border: 2px solid red; */
+    border-radius: 24px;
+    font-size: large;
+    background-color: #3d405b;
+    color: white;
+    width: 200px;
+    margin-left: 43%;
+}
+
+.locationDiv {
+    position: fixed;
+    margin-right: 58%;
+    font-size: small;
+    background-color: #9bf6ff;
+    border-radius: 20px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+}

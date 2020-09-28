@@ -1,0 +1,22 @@
+.vehicleGroup {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+}
+
+
+.vehicleRow {
+    /* border: 2px solid black; */
+    padding: 50px;
+    background-color: #00afb9;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 24px;
+    box-shadow: 0px 0px 9px -6px rgba(0,0,0,0.75);
+}
+
+a {
+    text-decoration: none;
+    color: #fdfcdc;
+}
